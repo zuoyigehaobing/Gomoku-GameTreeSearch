@@ -42,4 +42,4 @@ You'll see the following interface :
 
 **Bin Liu**: bbin.liu@mail.utoronto.ca  
 
-**BingZhao Shan**: bingzhao.shan@mail.utoronto.ca
+**BingZhao Shan**: yizhe.shan@gmail.com
