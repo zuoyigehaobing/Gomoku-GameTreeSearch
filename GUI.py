@@ -23,7 +23,7 @@ class Window(Frame):
         ## turn is True if it is player's turn,false otherwise
         self.state = None
         ## state is the cur  board state
-        self.AI = "EASY"
+        self.AI = "Computer"
         self.AI_pool = []
         self.AI_pool.append(AI("Simple-1",2,simple_heurstic,simple_search))
         self.AI_pool.append(AI("Simple-2",1,simple_heurstic,simple_search))
