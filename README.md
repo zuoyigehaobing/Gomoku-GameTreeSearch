@@ -38,7 +38,7 @@ You'll see the following interface :
 
 ### ------------------------------------------------------------------------------------------
 
-**Copy right reserved to: **
+**Copy right reserved to:**
 
 **Bin Liu**: bbin.liu@mail.utoronto.ca  
 
