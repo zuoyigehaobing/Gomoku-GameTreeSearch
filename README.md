@@ -29,6 +29,11 @@ You'll see the following interface :
 
 (if you want try different depths, you can also manually set the depth in the minimax search file. However, if it is larger than 4, the response time for each step is crazy long since the searching state is so huge)
 
-### click Quit to exit the game, Enjoy!
+
+### If you want to know more about our implementation, click [here](https://github.com/zuoyigehaobing/Gomoku-GameTreeSearch/blob/master/csc384-project.pdf).
+
+
+### Click Quit to exit the game, Enjoy!
+
 
 Copy right reserved to: **Bin Liu**: bbin.liu@mail.utoronto.ca  **BingZhao Shan**: bingzhao.shan@mail.utoronto.ca
