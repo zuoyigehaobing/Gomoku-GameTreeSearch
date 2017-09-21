@@ -36,13 +36,9 @@ You'll see the following interface :
 ### Click Quit to exit the game, Enjoy!
 
 
+### ------------------------------------------------------------------------------------------
 
-
-
-
-
-
-**- Copy right reserved to: **
+**Copy right reserved to: **
 
 **Bin Liu**: bbin.liu@mail.utoronto.ca  
 
