@@ -77,7 +77,6 @@ class Window(Frame):
     def fill_char(self,result = 0):
         """
         draw the char
-
         """
         self.side.delete(ALL)
         self.side.create_image(0,0,anchor = NW,image =right )
